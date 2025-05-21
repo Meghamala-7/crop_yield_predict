@@ -1,4 +1,5 @@
 #crop_yield_pred
+
 Introduction: Crop yield prediction estimates the harvest quantity for a given area and time, transitioning from traditional methods (field surveys and expert knowledge) to modern machine learning (ML) techniques. ML enables analysis of vast datasets, including weather, soil, and farming practices, revealing complex patterns for accurate predictions.
 
 Key Components:
